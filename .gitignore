@@ -407,6 +407,7 @@ sns.db
 .DS_Store
 
 .venv
+.python-version
 
 ####################
 # Java
